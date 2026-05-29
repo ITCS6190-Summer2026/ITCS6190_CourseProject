@@ -1,5 +1,5 @@
 # ITCS 6190 – Cloud Computing for Data Analysis
 
-## Course Project: Datasets for Responsible Artificial Intelligence
+## Course Project: Datasets for Responsible Artificial Intelligence (AI)
 
-This is a new version of the project for ITCS-6190.
+Datasets that illustrate best-practices in responsible AI will be explored in this project.
